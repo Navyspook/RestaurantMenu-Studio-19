@@ -1,0 +1,16 @@
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.exe
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.deps.json
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.runtimeconfig.json
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.runtimeconfig.dev.json
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.dll
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\ref\Ch-19-Restaurant-Menu-Practice.dll
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\bin\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.pdb
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.AssemblyInfo.cs
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.dll
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\ref\Ch-19-Restaurant-Menu-Practice.dll
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.pdb
+C:\Users\Justin\Desktop\LaunchCode\Extras\Ch-19\Ch-19-Restaurant-Menu-Practice\Ch-19-Restaurant-Menu-Practice\obj\Debug\net5.0\Ch-19-Restaurant-Menu-Practice.genruntimeconfig.cache

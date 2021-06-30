@@ -29,12 +29,6 @@ namespace Ch_19_Restaurant_Menu_Practice
 
         }
 
-        public void PrintItem()
-        {
-            Console.WriteLine($"{this.Name}     {this.NewOrNot}\n{this.Price}\n{this.Description}");
-            Console.WriteLine("____________________________\n");
-        }
-
         public MenuItem(string name, double price, string description, string category, string newOrNot)
         {
             this.Name = name;

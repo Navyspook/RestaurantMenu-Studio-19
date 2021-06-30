@@ -39,7 +39,7 @@ namespace Ch_19_Restaurant_Menu_Practice
         public void PrintSingleItem(MenuItem specificItem)
         {
             int i = this.ListOfMenuItems.IndexOf(specificItem);
-            ListOfMenuItems[i].PrintItem();
+            ListOfMenuItems[i].PrintMenu();
         }
 
 
